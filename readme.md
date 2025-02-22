@@ -12,6 +12,12 @@ pip install fastapi httpx uvicorn
 python main.py
 ```
 
+## Environment Variables
+
+```shell
+ALLOWED_HOSTS=http://localhost:3000,https://ur.domain.com
+```
+
 ## Usage
 
 ```bash
