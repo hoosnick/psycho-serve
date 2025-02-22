@@ -19,7 +19,7 @@ python main.py
 http://your-server/?url=https://target-url.com
 ```
 
-## ⚠️ Warning
+## Warning
 
 This proxy is so permissive it'll forward anything. If you deploy this in prod without proper security, you deserve what's coming to you.
 
