@@ -22,7 +22,7 @@ ALLOWED_HOSTS=http://localhost:3000,https://ur.domain.com
 
 ```bash
 # Hit it like this
-http://your-server/?url=https://target-url.com
+https://your-server.com?url=https://target-url.com
 ```
 
 ## Warning
